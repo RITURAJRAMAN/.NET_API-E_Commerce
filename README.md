@@ -1,1 +1,1 @@
-.NET API for Ecommerce Web Application.
+.NET API for E-Commerce Web Application.
